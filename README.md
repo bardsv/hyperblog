@@ -6,7 +6,7 @@ Esta es la practica del curso de Platzi
 >Me hacía falta un curso como este para aumentar mis habilidades en el manejo de versiones de código. Ahora me siento mas preparado, y seguiré practicando para ser aun mejor.
 > - Nunca pares de aprender
 
-#¿Que aprendí?
+# ¿Que aprendí?
 
 A lo largo de este curso puse en práctica cosas como:
 * Comando escenciales de Git
@@ -19,4 +19,4 @@ A lo largo de este curso puse en práctica cosas como:
 
 > Ahora utilizo Git para enviar mis codigos a GitHub, la ventaja fue que ya sabía usar la terminal. Yo uso linux, pero me las arregle para trabajar en Windows, al principio tuve dificultades, pero despues y con GitBash solo usaba la terminal <3 =)
 
-#Fín
+# Fín
